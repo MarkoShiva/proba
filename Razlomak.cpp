@@ -1,5 +1,6 @@
 // vim: set undofile:
 // Program: razlomak
+//jljlojl
 
 #include "Razlomak.h"
 
