@@ -22,5 +22,11 @@ int main(int argc, const char *argv[])
 
     std::cout << d << std::endl;
 
+
+
+    std::cin.get();
+    std::cin.get();
+
+
     return 0;
 }
